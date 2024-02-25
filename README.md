@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**sanzor/sanzor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Main Projects
 
-Here are some ideas to get you started:
+**Social Media**:
+- [Medium](https://bercovici-adrian-simon.medium.com/)
+- [Linkedin](https://www.linkedin.com/in/adrian-bercovici-8799b218/)
+- [StackOverflow]( https://stackoverflow.com/users/1913744/bercovici-adrian)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+📫 **Contact**: 
+- gmail: bercovici.adrian.simon@gmail.com\
+  <br>
+ ⚡ Fun fact: I am a hitchhiker 
+
