@@ -4,6 +4,7 @@
   - [Adi Chat](https://github.com/sanzor/AdiChat) Chat Application with Erlang using Nova Framework , javascript and websockets
   - [Ctesiphon Chat](https://github.com/sanzor/Ctesiphon) Chat server using C#/.NET, Websockets and Redis Pub/Sub
   - [Oituz Framework](https://github.com/Oituz/Signalling) WebRTC native Erlang framework (signalling + streaming , still in development)
+  - [4G Network simulator](https://github.com/sanzor/4G-Network-Evolved-Packet-Core) Evolved Packet Core (EPC) 4G Network simulator abstracting radio towers , MME , PGW and other components
 
 Articles:
 - [Writing a http rest api using Erlang /w Nova Framework](https://bercovici-adrian-simon.medium.com/building-an-erlang-web-api-using-nova-framework-and-redis-141edf170ef7) 
