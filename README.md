@@ -1,5 +1,5 @@
 ### Hi there 👋
-C#/Erlang/Python/Javascript(vanilla) develop and architect
+C#/Erlang/Python/Javascript(vanilla) developer and architect
 
 Specialized in:
 - distributed systems
@@ -8,7 +8,7 @@ Specialized in:
 - data modelling
 - functional programming
 
-Tech Stack:
+**Tech Stack**:
   - C#/.NET
   - Erlang
   - Python
