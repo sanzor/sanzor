@@ -8,7 +8,7 @@ Specialized in:
 - data modelling
 - functional programming
 
-  Tech Stack:
+Tech Stack:
   - C#/.NET
   - Erlang
   - Python
