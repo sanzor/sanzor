@@ -1,4 +1,20 @@
 ### Hi there 👋
+C#/Erlang/Python/Javascript(vanilla) develop and architect
+
+Specialized in:
+- distributed systems
+- soft realtime systems (anything using websockets e.g: chat apps , multiplayer games, IIoT)
+- domain driven design
+- data modelling
+- functional programming
+
+  Tech Stack:
+  - C#/.NET
+  - Erlang
+  - Python
+  - Javascript
+  - Kafka, RabbitMQ, Redis Pub/Sub
+  - Some Haskell here and there 
 
 🔭 Main Projects
   - [Adi Chat](https://github.com/sanzor/AdiChat) Chat Application with Erlang using Nova Framework , javascript and websockets
