@@ -9,8 +9,8 @@ Specialized in:
 - functional programming
 
 **Tech Stack**:
-  - C#/.NET
   - Erlang
+  - C#/.NET
   - Python
   - Javascript
   - Kafka, RabbitMQ, Redis Pub/Sub
