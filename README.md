@@ -20,7 +20,7 @@ Specialized in:
  ## 🔭 Main Projects
 - **Adi-Chat** - A real-time chat application using Erlang, JavaScript, and WebSockets.
   - [Chat Server](https://github.com/sanzor/NovaWebsocketServer) - Erlang, built with Nova Framework.
-  - [Chat Client - UI](https://github.com/sanzor/NovaWebsocketServer) - Frontend interface built with React.
+  - [Chat Client - UI](https://github.com/sanzor/Adi-Chat-UI-React) - Frontend interface built with React.
 - [Ctesiphon Chat](https://github.com/sanzor/Ctesiphon) Chat server using C#/.NET, Websockets and Redis Pub/Sub
 - [Oituz Framework](https://github.com/Oituz/Signalling) WebRTC native Erlang framework (signalling + streaming , still in development)
 - [4G Network simulator](https://github.com/sanzor/4G-Network-Evolved-Packet-Core) Evolved Packet Core (EPC) 4G Network simulator abstracting radio towers , MME , PGW and other components
