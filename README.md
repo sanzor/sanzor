@@ -1,5 +1,5 @@
 ### Hi there 👋
-C#/Erlang/Python/Javascript(vanilla) developer and architect
+C#/Erlang/Rust/Python/Javascript(vanilla) developer and architect
 
 Specialized in:
 - distributed systems
@@ -11,6 +11,7 @@ Specialized in:
 **Tech Stack**:
   - Erlang
   - C#/.NET
+    Rust
   - Python
   - Javascript
   - Kafka, RabbitMQ, Redis Pub/Sub
