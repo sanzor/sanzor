@@ -11,7 +11,7 @@ Specialized in:
 **Tech Stack**:
   - Erlang
   - C#/.NET
-    Rust
+  - Rust
   - Python
   - Javascript
   - Kafka, RabbitMQ, Redis Pub/Sub
@@ -19,8 +19,7 @@ Specialized in:
 
 🔭 Main Projects
  ## 🔭 Main Projects
-- **Adi-Chat** - A real-time chat application using Erlang, JavaScript, and WebSockets.
-  - [Chat Server](https://github.com/sanzor/NovaWebsocketServer) - Erlang, built with Nova Framework.
+  - [Digital Signal Processing Cli - Rust] (https://www.github.com/sanzor/audio-dsp)
   - [Chat Client - UI](https://github.com/sanzor/Adi-Chat-UI-React) - Frontend interface built with React.
 - [Ctesiphon Chat](https://github.com/sanzor/Ctesiphon) Chat server using C#/.NET, Websockets and Redis Pub/Sub
 - [Oituz Framework](https://github.com/Oituz/Signalling) WebRTC native Erlang framework (signalling + streaming , still in development)
