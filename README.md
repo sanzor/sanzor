@@ -19,7 +19,7 @@ Specialized in:
 
 🔭 Main Projects
  ## 🔭 Main Projects
-  - [Digital Signal Processing Cli - Rust(https://www.github.com/sanzor/audio-dsp)
+  - [ Audio Media Player platform - Rust](https://www.github.com/sanzor/audio-dsp)
   - [Chat Client - UI](https://github.com/sanzor/Adi-Chat-UI-React) - Frontend interface built with React.
   - [Chat Server (with whatsapp& discord functionality)](https://www.github.com/sanzor/adi-chat)
 - [Ctesiphon Chat (C#)](https://github.com/sanzor/Ctesiphon) Chat server using C#/.NET, Websockets and Redis Pub/Sub
