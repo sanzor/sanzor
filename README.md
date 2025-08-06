@@ -1,5 +1,5 @@
 ### Hi there 👋
-C#/Erlang/Rust/Python/Javascript(vanilla) developer and architect
+Erlang/Rust/C#/Python/Javascript(vanilla) developer and architect
 
 🔭 Main Projects
  ## 🔭 Main Projects
