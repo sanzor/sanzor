@@ -7,7 +7,7 @@ Erlang/Rust/C#/Python/Javascript(vanilla) developer and architect
 - [Erlang Chat Server (with whatsapp& discord functionality)](https://www.github.com/sanzor/adichat)
 - [Chat Client - UI](https://github.com/sanzor/Adi-Chat-UI-React) - Frontend interface built with React.
 - [Ctesiphon Chat (C#)](https://github.com/sanzor/Ctesiphon) Chat server using C#/.NET, Websockets and Redis Pub/Sub
-- [Oituz Framework](https://github.com/Oituz/Signalling) WebRTC SFzu native Erlang framework (signalling + streaming , still in development)
+- [Oituz Framework](https://github.com/Oituz/Signalling) WebRTC SFU native Erlang framework (signalling + streaming , still in development)
 - [4G Network simulator](https://github.com/sanzor/4G-Network-Evolved-Packet-Core) Evolved Packet Core (EPC) 4G Network simulator abstracting radio towers , MME , PGW and other components
 
 Specialized in:
